@@ -41,7 +41,7 @@ Make sure all the PCs are connected to the internet and are in the LAN.
 
 We will first start by setting up SSH.
 Doing this first is recommended so that all the further steps can be done remotely from a single PC.
-[more](./1.Setting\ Up\ SSH/README.md)
+[more](./1.Setting%20Up%20SSH/README.md)
 
 
 ### *STEP 2:* Setting Up MPI.
